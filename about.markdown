@@ -12,4 +12,9 @@ Contributors: (alphabetical order)
 * Kris Medeiros
 * Nathan DeLand
 * Tommy Falgout
-* Thomas Wheland
+* Thomas Whelan
+
+This site was inspired by similar content from:
+
+* Blues in LA
+* Steel City Blues

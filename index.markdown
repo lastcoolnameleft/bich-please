@@ -7,11 +7,15 @@ layout: page
 
 ![foo](img/image.png)
 
-Blues is a social dance, and our mission is to dance with people! We’ve come together to bond over our love of Blues. That said:
+Created by Black Americans alongside blues music, "blues dance" is a contemporary umbrella term for a range of partnered and solo styles.  It is rhythmic, improvisational & soulful.  
 
-1. *B*e respectful of each other and the other dancers
-2. *I*t's always ok to say no to any dance, hold, move, or partner that makes you feel uncomfortable
-3. *C*ommunicate abundantly, with your partner and/or a party organizer if there's an issue or if you have any questions 
-4. *H*ave fun!
+We’ve come together to bond over our love of Blues. That said:
+
+1. **B**e respectful of each other and the other dancers
+2. **I**t's always ok to say no to any dance, hold, move, or partner that makes you feel uncomfortable
+3. **C**ommunicate abundantly, with your partner and/or a party organizer if there's an issue or if you have any questions 
+4. **H**ave fun!
 
 Said aloud, BICH PLEASE!
+
+Please see our [Code of Conduct](/code-of-conduct) for additional details
