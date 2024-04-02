@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![foo](img/image.png)
+![foo](img/bfd-2024-feb.png)
 
 Created by Black Americans alongside blues music, "blues dance" is a contemporary umbrella term for a range of partnered and solo styles.  It is rhythmic, improvisational & soulful.  
 
