@@ -19,3 +19,5 @@ We’ve come together to bond over our love of Blues. That said:
 Said aloud, BICH PLEASE!
 
 Please see our [Code of Conduct](code-of-conduct) for additional details
+
+If you have any issues, please fill out our [Incident Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSdP6z8jyD2Kv9N4AchLZnyP7mhO8vNLxw04StKU9H3KMwvzOg/viewform?usp=sf_link)
