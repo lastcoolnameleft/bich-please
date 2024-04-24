@@ -18,4 +18,4 @@ We’ve come together to bond over our love of Blues. That said:
 
 Said aloud, BICH PLEASE!
 
-Please see our [Code of Conduct](/code-of-conduct) for additional details
+Please see our [Code of Conduct](code-of-conduct) for additional details
